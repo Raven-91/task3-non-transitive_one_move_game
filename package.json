@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "ascii-table3": "^0.9.0",
+    "biguint-format": "^1.0.2",
+    "node-modules": "^1.0.1",
+    "readline-sync": "^1.4.10",
+    "simple-random-number-generator": "^1.3.0"
+  }
+}
